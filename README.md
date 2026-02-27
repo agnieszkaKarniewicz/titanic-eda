@@ -17,3 +17,11 @@ The dataset contains passenger information including age, gender, ticket class, 
 - Pandas
 - Seaborn
 - Matplotlib
+
+## Mentor Feedback
+
+This project received positive evaluation from a data mentor for:
+- Complete and structured EDA workflow
+- Clear and insightful visualizations
+- Strong analytical conclusions
+- Professional and clean presentation
